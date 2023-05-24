@@ -1,5 +1,16 @@
-# Web Scraper for NLCB Lotto Plus Data
 
-### This script scrapes the NLCB website for all NLCB numbers for all time.
-### My initial plan for this was to extract and analyze the lotto data and win
+# Web Scraper for NLCB Data
 
+This web scraper pulls data from the NLCB webite.  So far, scrapers & Power BI reports were developed for:
+
+1) Lotto Plus 
+2) Cash Pot 
+3) Play Whe
+
+
+To run the script, install python and ensure you have the following packages:
+
+1) bs4
+2) time
+3) requests
+ 
